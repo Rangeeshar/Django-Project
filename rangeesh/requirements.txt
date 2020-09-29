@@ -1,0 +1,16 @@
+asgiref==3.2.10
+certifi==2020.6.20
+chardet==3.0.4
+Django==3.0.8
+django-tastypie==0.14.3
+idna==2.10
+python-dateutil==2.8.1
+python-mimeparse==1.6.0
+pytz==2020.1
+requests==2.24.0
+six==1.15.0
+sqlparse==0.3.1
+structlog==20.1.0
+urllib3==1.25.9
+lru-expiring-cache==1.1
+ratelimit==2.2.1
